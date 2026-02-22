@@ -91,17 +91,7 @@ My engineering focus is centered around building **scalable systems**, solving *
 * Microcontroller Programming
 * Sensor Integration
 * Hardware–Software Interfacing
-
----
-
-## ✨ Engineering Mindset
-
-> Building scalable intelligence for real-world impact.
-
-* Fundamentals-first approach
-* Performance-aware implementation
-* Modular architecture design
-* Reproducible development environments
+* 
 
 ---
 
