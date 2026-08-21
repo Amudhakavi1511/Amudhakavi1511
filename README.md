@@ -1,7 +1,7 @@
 # Hi, I'm Amudhakavi
 
 <p align="center">
-  <img src="https://img.shields.io/badge/3rd%20Year-SSN%202023--28%20-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/4th%20Year-SSN%202023--28%20-blue?style=for-the-badge">
   <img src="https://img.shields.io/badge/Field-Computer Science and Engineering%20Engineering-orange?style=for-the-badge">
   <img src="https://img.shields.io/badge/Core-AI/Ml, Full Stack Dev%20-green?style=for-the-badge">
 </p>
